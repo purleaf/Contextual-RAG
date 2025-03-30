@@ -92,7 +92,7 @@ Armstrong's first step onto the lunar surface was broadcast on live TV to a worl
 
 ## 4. Initialize the RAG System
 
-Now, import the necessary classes from your `new_rag_local.py` file and create instances.
+Now, import the necessary classes from your `rag.py` file and create instances.
 
 ```python
 # In your Python script or interactive session:
